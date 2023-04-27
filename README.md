@@ -19,4 +19,6 @@ You can reach me at ayomiposi4joy@gmail.com
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lapope1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lapope1&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lapope1&langs_count=5&theme=tokyonight)]()
+
