@@ -18,4 +18,5 @@ You can reach me at ayomiposi4joy@gmail.com
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lapope1&theme=dark&background=000000)](https://git.io/streak-stats)
