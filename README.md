@@ -19,6 +19,6 @@ You can reach me at ayomiposi4joy@gmail.com
 
 ### :fire: My Stats :
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lapope1&count_private=true&theme=white&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lapope1&langs_count=5&theme=white)]()
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lapope1&show_icons=true&locale=en&layout=compact" alt="lapope1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lapope1&show_icons=true&locale=en" alt="lapope1" /></p>
